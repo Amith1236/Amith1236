@@ -86,18 +86,6 @@ Adaptive LLM-powered note-taking system guided by Bloom’s taxonomy.
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amith1236&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amith1236&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amith1236&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 <p align="center">
 <sub>Building the trust layer for the agentic AI ecosystem.</sub>
